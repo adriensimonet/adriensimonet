@@ -1,6 +1,8 @@
 <h1 align="center">I'm Adrien, welcome to my profile</h1>
 <h3 align="center">A Derivatives Structurer from France</h3>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/adriensimonet/adriensimonet/Olympique_Marseille_logo.png">
+
 - 📫 How to reach me **adrien.m.simonet@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adriensimonet](https://www.linkedin.com/in/adriensimonet)
