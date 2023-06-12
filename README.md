@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adriensimonet](https://www.linkedin.com/in/adriensimonet)
 
-- ⚡ Fun fact **I love football ⚽ and I am a fan of Olympique de Marseille ->**
+- ⚡ Fun fact **I love football ⚽ and I am a fan of Olympique de Marseille.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
